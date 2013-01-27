@@ -1,8 +1,0 @@
-
-http://www.xiecraft.net/about.html
-http://www.xiecraft.net/archive.html
-http://www.xiecraft.net/atom.xml
-http://www.xiecraft.net/categories.html
-http://www.xiecraft.net/downloads.html
-http://www.xiecraft.net/index.html
-http://www.xiecraft.net/sitemap.txt
