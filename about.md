@@ -22,5 +22,5 @@ The farming mod is the one that has survived to this day, having evolved from it
 Christie "Xie" Williams, born 2nd September 1983 in Far North Queensland, Australia. A+ blood type, married... my wife and I have a cat... I'm a software developer, I love video games, and I make Minecraft mods. What more do you need to know? :P
 
 <center>
-	<img height="128" width="128" src="/img/xiewtfface.jpeg" alt="Xie, when he was a lot younger and still pretty :3"/>
+	<img height="128" width="128" src="/assets/img/xiewtfface.jpeg" alt="Xie, when he was a lot younger and still pretty :3"/>
 </center>
