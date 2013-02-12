@@ -4,6 +4,7 @@ title: "Fixing Melons (Thing a Week #1)"
 description: "Fixng melon drops and crafting recipe"
 category: content
 tags: [thingaweek]
+thumbnail: "/assets/img/posts/melons/melon_seeds.jpg"
 ---
 {% include JB/setup %}
 
@@ -17,6 +18,8 @@ img {
 
 ## Melons Old and New
 For the first "Thing a Week" I want to start small, with a tiny tweak for vanilla melons. Way back in the Minecraft Beta, long before melons found their way into vanilla Minecraft, I had added watermelons to the game in my farming mod. I of course removed them when vanilla melons were added.
+
+<!--more-->
 
 ![The Original Xie's Farming Mod](/assets/img/posts/melons/growables.png)
 

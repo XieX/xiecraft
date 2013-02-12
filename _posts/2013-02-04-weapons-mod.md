@@ -4,6 +4,7 @@ title: "Weapons Mod"
 description: "Remembering the weapons mod, adding 3 new swords and 3 new bows"
 category: content
 tags: []
+thumbnail: "assets/img/posts/weapons/redstone_xbow.png"
 ---
 {% include JB/setup %}
 
@@ -18,6 +19,8 @@ table.weapon-table {
 ### [Download weapons.zip](/assets/files/downloads/weapons.zip)
 
 This content was made to demo custom weapon support, and adds 3 new swords and 3 new bows to the game. Namely, bone sword, glass sword, blaze sword, bone bow, blaze bow and redstone crossbow.
+
+<!--more-->
 
 ## Bone Sword
 

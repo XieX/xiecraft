@@ -4,6 +4,7 @@ title: "Cheese Please! (Thing a Week #2)"
 description: "Super simple cheese mod"
 category: content
 tags: [thingaweek]
+thumbnail: "/assets/img/posts/cheese/houseofcheese.jpg"
 ---
 {% include JB/setup %}
 
@@ -17,6 +18,8 @@ img {
 
 ## Cheese!!
 Way back when I made Xie's Cooking Mod I added cheese to Minecraft. The mod added a "stove" block that let you "cook" food by adding items sequentially to the stove. Cheese was made by cooking milk on the stove and adding a yellow flower... While I have been meaning to update the old stove mod, here's a different method of making cheese in the meantime!
+
+<!--more-->
 
 ![Smelting cheese](/assets/img/posts/cheese/smeltingcheese.jpg)
 
