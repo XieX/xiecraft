@@ -26,7 +26,7 @@ This content was made to demo custom weapon support, and adds 3 new swords and 3
 <table class='weapon-table'>
   <tr>
     <td>
-      <img alt="Bone Sword" src="assets/img/posts/weapons/bone_sword.png" height="32" width="32" />
+      <img alt="Bone Sword" src="/assets/img/posts/weapons/bone_sword.png" height="32" width="32" />
     </td>
     <td>
       <table>
@@ -60,7 +60,7 @@ The bone sword is an early game upgrade to the vanilla stone sword. It does as m
 <table class='weapon-table'>
   <tr>
     <td>
-      <img alt="Glass Sword" src="assets/img/posts/weapons/glass_sword.png" height="32" width="32" />
+      <img alt="Glass Sword" src="/assets/img/posts/weapons/glass_sword.png" height="32" width="32" />
     </td>
     <td>
       <table>
@@ -98,7 +98,7 @@ The glass sword is a mid-game alternative to the vanilla iron sword, being very 
 <table class='weapon-table'>
   <tr>
     <td>
-      <img alt="Blaze Sword" src="assets/img/posts/weapons/blaze_sword.png" height="32" width="32" />
+      <img alt="Blaze Sword" src="/assets/img/posts/weapons/blaze_sword.png" height="32" width="32" />
     </td>
     <td>
       <table>
@@ -135,7 +135,7 @@ The blaze sword is a late game alternative to the diamond sword, doing as much d
 <table class='weapon-table'>
   <tr>
     <td>
-      <img alt="Bone Bow" src="assets/img/posts/weapons/bone_bow.png" height="32" width="32" />
+      <img alt="Bone Bow" src="/assets/img/posts/weapons/bone_bow.png" height="32" width="32" />
     </td>
     <td>
       <table>
@@ -157,7 +157,7 @@ The bone bow is an early game alternative to the vanilla wooden bow, being prett
 <table class='weapon-table'>
   <tr>
     <td>
-      <img alt="Blaze Bow" src="assets/img/posts/weapons/blaze_bow.png" height="32" width="32" />
+      <img alt="Blaze Bow" src="/assets/img/posts/weapons/blaze_bow.png" height="32" width="32" />
     </td>
     <td>
       <table>
