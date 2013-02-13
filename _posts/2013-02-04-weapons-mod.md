@@ -4,6 +4,7 @@ title: "Weapons Mod"
 description: "Remembering the weapons mod, adding 3 new swords and 3 new bows"
 category: content
 tags: []
+thumbnail: "/assets/img/posts/weapons/weapons.png"
 ---
 {% include JB/setup %}
 
