@@ -187,7 +187,7 @@ The blaze bow is an upgrade to the vanilla bow that fires flaming arrows, and do
 <table class='weapon-table'>
   <tr>
     <td>
-      <img alt="Redstone Crossbow" src="/img/posts/weapons/redstone_xbow.png" height="32" width="32" />
+      <img alt="Redstone Crossbow" src="/assets/img/posts/weapons/redstone_xbow.png" height="32" width="32" />
     </td>
     <td>
       <table>
