@@ -14,7 +14,7 @@ img {
 }
 </style>
 
-[Download cheese.zip](/assets/files/downloads/cheese.zip)
+### [Download cheese.zip](/assets/files/downloads/cheese.zip)
 
 ## Cheese!!
 Way back when I made Xie's Cooking Mod I added cheese to Minecraft. The mod added a "stove" block that let you "cook" food by adding items sequentially to the stove. Cheese was made by cooking milk on the stove and adding a yellow flower... While I have been meaning to update the old stove mod, here's a different method of making cheese in the meantime!

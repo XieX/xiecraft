@@ -4,42 +4,53 @@ title: XieCraft
 ---
 {% include JB/setup %}
 
-{% assign close_off = false %}
+<style>
+  .panel-housing {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    text-align: center;
+  }
 
-<table cellpadding="10">
-  {% for post in site.posts %}
-    {% cycle '<tr>', '' %}
-      <td width="50%">
-        <div style='{% cycle 'background: grey;', 'background: blue;' %} margin-left: auto; margin-right: auto; width: 95%; text-align: center;'>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2> 
+  .panel-outer {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    width: 300px;
+    /*height: 600px;*/
+    zoom: 1;
+    *display: inline;
+  }
+
+  .panel-inner {
+    width: 85%;
+    /*height: 85%;*/
+    background-color: #f5f5f5;
+    padding: 10px;
+  }
+
+</style>
+
+<div class='panel-housing'>
+{% for post in site.posts %}
+  <div class='panel-outer'>
+    <div class='panel-inner'>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> 
         <p class="author">
           {{ post.date | date: "%e %B, %Y"}}
         </p>
         <p>
           {% if post.thumbnail %}
             <img src='{{ post.thumbnail }}' width='75%' />
-          {% else %}
-            <img src='/assets/img/xiewtfface.jpeg' width='75%' />
           {% endif %}
         </p>
-        </div>
         <div style="text-align:justify;">
           {{ post.content | more: 'excerpt' }}
         </div>
         <div style="font-size: large; text-align: right;">
           <a href="{{ post.url }}">Read more...</a>
         </div>
-      </td>
-    {% cycle '', '</tr>' %}
-
-    {% if close_off %}
-      {% assign close_off = false %}
-    {% else %}
-      {% assign close_off = true %}
-    {% endif %}
-  {% endfor %}
-
-  {% if close_off %}
-    </tr>
-  {% endif %}
-</table>
+      </div>
+  </div>
+{% endfor %}
+</div>

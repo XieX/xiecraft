@@ -14,7 +14,7 @@ img {
 }
 </style>
 
-[Download MelonOverride.xie](/assets/files/MelonOverride.xie)
+### [Download MelonOverride.xie](/assets/files/MelonOverride.xie)
 
 ## Melons Old and New
 For the first "Thing a Week" I want to start small, with a tiny tweak for vanilla melons. Way back in the Minecraft Beta, long before melons found their way into vanilla Minecraft, I had added watermelons to the game in my farming mod. I of course removed them when vanilla melons were added.
