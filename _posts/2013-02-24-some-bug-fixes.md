@@ -16,19 +16,21 @@ For Minecraft 1.4.7
 * Added support for explosion resistance
 * More refactoring
 
+<!--more-->
+
 ## Explosion resistance
 
 To change a custom block's explosive resistance, just add a "resistance" property to your block declaration, e.g.:
 
-  {
-    "blocks": {
-	  "myToughBlock": {
-	    "name": "Tough Block",
-		...
-		"resistance": 10
+	  {
+		"blocks": {
+		  "myToughBlock": {
+			"name": "Tough Block",
+			...
+			"resistance": 10
+		  }
+		}
 	  }
-	}
-  }
   
 This is one-third the scale of the explosive resistance listed on the Minecraft wiki, e.g. block resistance 10 is the same as that of stone brick (30).
 
