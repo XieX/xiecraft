@@ -2,7 +2,7 @@
 layout: post
 title: "Finally an update!"
 description: ""
-category: 
+category: Releases
 tags: []
 ---
 {% include JB/setup %}
@@ -13,7 +13,7 @@ img {
 }
 </style>
 
-### [Download Xie's Mod Feb13](/assets/files/downloads/releases/Feb13/Xie.zip)
+### [Download Xie's Mod](/assets/files/downloads/releases/2013_Feb_19/Xie.zip)
 For Minecraft 1.4.7
 
 ![New default content](/assets/img/posts/releases/new_default_content.jpg)

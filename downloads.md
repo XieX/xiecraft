@@ -9,7 +9,7 @@ group: navigation
 On this page you can download the latest versions of Xie's mod. If you're looking for older versions, try looking in my [Google Code repository](http://code.google.com/p/xie-mc-mods/downloads/list").
 
 ## Xie's Mod for Minecraft 1.4.7
-### ([Download Xie's Mod Feb13](http://xw-gs.com/mc/latest/Xie.zip))
+### ([Download the latest version of Xie's Mod](http://xw-gs.com/mc/latest/Xie.zip))
 Includes default farming content.
 
 #### Installation Instructions
@@ -23,9 +23,9 @@ Chances are you'll run into some block or item ID conflicts if you try to run my
 ## Extra Content
 This section lists a number of additional content packs and content files. They require the core mod to be installed, and need to be placed into the directory ./mods/Xie (where "." is your Minecraft home).
 
-### Default Farming Content 
+### Old Default Farming Content 
 #### ([Download](http://xie-mc-mods.googlecode.com/files/FarmingContentApr16.zip)) (Contains textures by Thistle)
-All of the classic farming content (fruit trees, tomatoes, cotton, corn, hybrid wheat etc) PLUS soy beans, tofu, tea, ketchup, cocoa trees, rose bushes, dandelion patches, carrots, onions, bottled milk, chocolate milk, and sweet tea, PLUS tacos, burritos etc. Added an override for vanilla wheat that drops hybrid wheat seeds 1% of the time. Rose and dandelion recipes have also been overridden, rose to rose seeds to red dye, and similarly for dandelions. Last updated April 16th 2012 - now includes tacos!
+All of the classic farming content (fruit trees, tomatoes, cotton, corn, hybrid wheat etc) PLUS soy beans, tofu, tea, ketchup, cocoa trees, rose bushes, dandelion patches, carrots, onions, bottled milk, chocolate milk, and sweet tea, PLUS tacos, burritos etc. Added an override for vanilla wheat that drops hybrid wheat seeds 1% of the time. Rose and dandelion recipes have also been overridden, rose to rose seeds to red dye, and similarly for dandelions.
 
 ### Cylan's Default Farming Content 
 #### ([Download](http://xie-mc-mods.googlecode.com/files/newdefault.zip)) (Textures by Cylan)
