@@ -24,6 +24,8 @@ I've been wanting to add some Nether crops to the game since Nether Wart was int
 
 <!--more-->
 
+![Nether Crops](/assets/img/posts/nethercrops/nethercrops.jpg)
+
 ### Crimson Sickle
 
 Firstly, you need to use the crimson sickle (crafted from blaze rods and nether brick) to harvest Nether Wart (with a RIGHT-CLICK, just like the foraging stick).
