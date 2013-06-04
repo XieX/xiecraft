@@ -8,20 +8,26 @@ group: navigation
 
 On this page you can download the latest versions of Xie's mod. If you're looking for older versions, try looking in my [Google Code repository](http://code.google.com/p/xie-mc-mods/downloads/list").
 
-## Xie's Mod for Minecraft 1.4.7
-### ([Download the latest version of Xie's Mod](http://xw-gs.com/mc/latest/Xie.zip))
+## [Xie's Mod for Minecraft 1.5.x](assets/files/downloads/releases/2013_Jun_03/Xie's%20Mod%20Jun3%20for%20Minecraft%201.5.x.zip)
+Includes default farming content.
+
+#### Installation Instructions
+
+Assuming you have Minecraft Forge installed, unzip the above download into your .minecraft/mods/ directory, so that the contained "Xie" folder is inside the /mods/ directory.
+
+## [Xie's Mod for Minecraft 1.4.7](http://xw-gs.com/mc/latest/Xie.zip)
 Includes default farming content.
 
 #### Installation Instructions
 
 Assuming you have Minecraft Forge installed, download the zip file and copy it into the /mods directory inside your Minecraft home folder.
 
-#### Modifying Block and Item IDs
+## Modifying Block and Item IDs
 
 Chances are you'll run into some block or item ID conflicts if you try to run my mod with any others. If this is the case, you can modify the block and item IDs for the default content by editing the ids.xid file in the default content directory. If you installed the mod as a zip file, you'll first need to extract it (remember to delete the zip file after you do).
 
-## Extra Content
-This section lists a number of additional content packs and content files. They require the core mod to be installed, and need to be placed into the directory ./mods/Xie (where "." is your Minecraft home).
+## Extra Content (for Minecraft 1.4 and earlier versions)
+This section lists a number of additional content packs and content files. They require the core mod to be installed, and need to be placed into the directory ./mods/Xie (where "." is your Minecraft home). *And sorry, but I haven't updated any of this content for Minecraft 1.5.x. Yet!*
 
 ### Old Default Farming Content 
 #### ([Download](http://xie-mc-mods.googlecode.com/files/FarmingContentApr16.zip)) (Contains textures by Thistle)
