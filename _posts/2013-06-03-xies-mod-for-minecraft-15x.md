@@ -10,7 +10,7 @@ thumbnail: "/assets/img/posts/releases/new_default_content.jpg"
 
 It's finally done! A version of Xie's Mod for Minecraft 1.5.x!
 
-### [Download](assets/files/downloads/releases/2013_Jun_03/Xie's%20Mod%20Jun9%20for%20Minecraft%201.5.x.zip)
+### [Download](/assets/files/downloads/releases/2013_Jun_09/Xie's%20Mod%20Jun9%20for%20Minecraft%201.5.x.zip)
 
 This is a hacked together update of my previous version (Xie's Mod v2.0 is still a work in progress, but this should tide us over for the time being). It still contains a couple of bugs (see below for a list that I will try to keep updated as bugs are discovered/fixed, hopefully more of the latter than the former!)
 
