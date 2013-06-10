@@ -28,3 +28,4 @@ Here is a list of known bugs, if you find a bug that isn't on this list feel fre
 * only shrubs and apple trees spawn naturally, other varieties do not (e.g. wild corn, orange trees et al)
 * some glitches with the top level of corn crops not popping when harvested
 * fertilizing custom crops is still the old fashioned way (grows it to max)
+* ~~orange/lemon textures are reversed (orange trees drop lemons, and lemon trees drop oranges!)~~
