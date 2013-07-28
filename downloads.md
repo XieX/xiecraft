@@ -8,6 +8,13 @@ group: navigation
 
 On this page you can download the latest versions of Xie's mod. If you're looking for older versions, try looking in my [Google Code repository](http://code.google.com/p/xie-mc-mods/downloads/list").
 
+## [Xie's Mod for Minecraft 1.6.2](/assets/files/downloads/releases/2013_Jul_28/Xie%27s%20Mod%20for%20Minecraft%201.6.2.zip)
+Includes default farming content.
+
+#### Installation Instructions
+
+Assuming you have Minecraft Forge installed, unzip the above download into your .minecraft/mods/ directory, so that the contained "Xie" folder is inside the /mods/ directory.
+
 ## [Xie's Mod for Minecraft 1.5.x](assets/files/downloads/releases/2013_Jun_03/Xie's%20Mod%20Jun3%20for%20Minecraft%201.5.x.zip)
 Includes default farming content.
 

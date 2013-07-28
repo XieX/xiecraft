@@ -12,7 +12,7 @@ I managed to hack out an updated version of my mod for Minecraft 1.6.2!
 
 ### [Download](/assets/files/downloads/releases/2013_Jul_28/Xie%27s%20Mod%20for%20Minecraft%201.6.2.zip)
 
-It took me a little longer than expected, though it was a relatively easy update - no really, it was super easy compared to 1.5! I had some deployment issues, and it took me a little while to figure out what to do with textures, but I got it sorted out. We still have to unzip the download into the ./mods/ directory, it'd be nice to just be able to copy in a zip or jar file, but there's a bit more work I'll have to do to get that to work. 
+It took me a little longer than expected, though it was a relatively easy update - super easy compared to 1.5! But I had some deployment issues, and it took me a little while to figure out what to do with textures, but I got it sorted out. We still have to unzip the download into the ./mods/ directory, it'd be nice to just copy in a zip or jar file, but there's a bit more work I'll have to do to get there. 
 
 Includes default farming content.
 
@@ -26,8 +26,8 @@ Assuming you already have Minecraft Forge installed, just unzip the above downlo
 
 Here is a list of known bugs, if you find a bug that isn't on this list feel free to let me know.
 
-* wheat override still suffers from infinite recursion, so it's been disabled
-* only shrubs and apple trees spawn naturally, other varieties do not (e.g. wild corn, orange trees et al)
+* wheat override still suffers from infinite recursion
+* metavariant plant spawning is still buggy (i.e. only shrubs and apple trees spawn naturally)
 
 ## Fixed Bugs From Previous Release
 * _some glitches with the top level of corn crops not popping when harvested_ 
