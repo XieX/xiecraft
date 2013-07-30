@@ -31,4 +31,4 @@ Here is a list of known bugs, if you find a bug that isn't on this list feel fre
 
 ## Fixed Bugs From Previous Release
 * _some glitches with the top level of corn crops not popping when harvested_ 
-*_fertilizing custom crops is still the old fashioned way (grows it to max)_
+* _fertilizing custom crops is still the old fashioned way (grows it to max)_
