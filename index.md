@@ -17,18 +17,15 @@ title: XieCraft
     vertical-align: top;
     padding: 10px;
     width: 300px;
-    /*height: 600px;*/
     zoom: 1;
     *display: inline;
   }
 
   .panel-inner {
     width: 85%;
-    /*height: 85%;*/
     background-color: #f5f5f5;
     padding: 10px;
   }
-
 </style>
 
 <div class='panel-housing'>
