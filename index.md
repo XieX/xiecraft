@@ -4,34 +4,10 @@ title: XieCraft
 ---
 {% include JB/setup %}
 
-<style>
-  .panel-housing {
-    margin-left: auto;
-    margin-right: auto;
-    width: 95%;
-    text-align: center;
-  }
-
-  .panel-outer {
-    display: inline-block;
-    vertical-align: top;
-    padding: 10px;
-    width: 300px;
-    zoom: 1;
-    *display: inline;
-  }
-
-  .panel-inner {
-    width: 85%;
-    background-color: #f5f5f5;
-    padding: 10px;
-  }
-</style>
-
-<div class='panel-housing'>
+<div class='panel-housing' style='margin-left: auto; margin-right: auto; width: 95%; text-align: center;'>
 {% for post in site.posts %}
-  <div class='panel-outer'>
-    <div class='panel-inner'>
+  <div class='panel-outer' style='display: inline-block; vertical-align: top; padding: 10px; width: 300px; zoom: 1; *display: inline;'>
+    <div class='panel-inner' style='width: 85%; background-color: #f5f5f5; padding: 10px;'>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3> 
         <p class="author">
           {{ post.date | date: "%e %B, %Y"}}
